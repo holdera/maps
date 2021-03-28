@@ -1,0 +1,292 @@
+[
+    {
+        "stateID": "AL",
+        "state": "Alabama",
+        "center": "[32.799,-86.8073]",
+        "zipCode": "35242"
+    },
+    {
+        "stateID": "AK",
+        "state": "Alaska",
+        "center": "[61.385,-152.2683]",
+        "zipCode": "99501"
+    },
+    {
+        "stateID": "AZ",
+        "state": "Arizona",
+        "center": "[33.7712,-111.3877]",
+        "zipCode": "85001"
+    },
+    {
+        "stateID": "AR",
+        "state": "Arkansas",
+        "center": "[34.9513,-92.3809]",
+        "zipCode": "71602"
+    },
+    {
+        "stateID": "CA",
+        "state": "California",
+        "center": "[36.17,-119.7462]",
+        "zipCode": "90210"
+    },
+    {
+        "stateID": "CO",
+        "state": "Colorado",
+        "center": "[39.0646,-105.3272]"
+        ,
+        "zipCode": "35242"
+    },
+    {
+        "stateID": "CT",
+        "state": "Connecticut",
+        "center": "[41.5834,-72.7622]"
+        ,
+        "zipCode": "35242"
+    },
+    {
+        "stateID": "DE",
+        "state": "Delaware",
+        "center": "[39.3498,-75.5148]"
+        ,
+        "zipCode": "35242"
+    },
+    {
+        "stateID": "DC",
+        "state": "District of Columbia",
+        "center": "[38.468,-80.9696]"
+    },
+    {
+        "stateID": "FL",
+        "state": "Florida",
+        "center": "[27.8333,-81.717]"
+    },
+    {
+        "stateID": "GA",
+        "state": "Georgia",
+        "center": "[32.9866,-83.6487]"
+    },
+    {
+        "stateID": "HI",
+        "state": "Hawaii",
+        "center": "[21.1098,-157.5311]"
+    },
+    {
+        "stateID": "ID",
+        "state": "Idaho",
+        "center": "[44.2394,-114.5103]"
+    },
+    {
+        "stateID": "IL",
+        "state": "Illinois",
+        "center": "[40.3363,-89.0022]",
+        "zipCode" : "12317"
+    },
+    {
+        "stateID": "IN",
+        "state": "Indiana",
+        "center": "[39.8647,-86.2604]"
+    },
+    {
+        "stateID": "IA",
+        "state": "Iowa",
+        "center": "[42.0046,-93.214]"
+    },
+    {
+        "stateID": "KS",
+        "state": "Kansas",
+        "center": "[38.5111,-96.8005]"
+    },
+    {
+        "stateID": "KY",
+        "state": "Kentucky",
+        "center": "[37.669,-84.6514]",
+        "zipCode" : "12321"
+    },
+    {
+        "stateID": "LA",
+        "state": "Louisiana",
+        "center": "[31.1801,-91.8749]"
+    },
+    {
+        "stateID": "ME",
+        "state": "Maine",
+        "center": "[44.6074,-69.3977]"
+    },
+    {
+        "stateID": "MD",
+        "state": "Maryland",
+        "center": "[39.0724,-76.7902]"
+    },
+    {
+        "stateID": "MA",
+        "state": "Massachusetts",
+        "center": "[42.2373,-71.5314]"
+    },
+    {
+        "stateID": "MI",
+        "state": "Michigan",
+        "center": "[43.3504,-84.5603]"
+    },
+    {
+        "stateID": "MN",
+        "state": "Minnesota",
+        "center": "[45.7326,-93.9196]"
+    },
+    {
+        "stateID": "MS",
+        "state": "Mississippi",
+        "center": "[32.7673,-89.6812]"
+    },
+    {
+        "stateID": "MO",
+        "state": "Missouri",
+        "center": "[38.4623,-92.302]"
+    },
+    {
+        "stateID": "MT",
+        "state": "Montana",
+        "center": "[46.9048,-110.3261]"
+    },
+    {
+        "stateID": "NE",
+        "state": "Nebraska",
+        "center": "[41.1289,-98.2883]"
+    },
+    {
+        "stateID": "NV",
+        "state": "Nevada",
+        "center": "[38.4199,-117.1219]",
+        "zipCode" : "12332"
+    },
+    {
+        "stateID": "NH",
+        "state": "New Hampshire",
+        "center": "[43.4108,-71.5653]"
+    },
+    {
+        "stateID": "NJ",
+        "state": "New Jersey",
+        "center": "[40.314,-74.5089]"
+    },
+    {
+        "stateID": "NM",
+        "state": "New Mexico",
+        "center": "[34.8375,-106.2371]"
+    },
+    {
+        "stateID": "NY",
+        "state": "New York",
+        "center": "[42.1497,-74.9384]"
+    },
+    {
+        "stateID": "NC",
+        "state": "North Carolina",
+        "center": "[35.6411,-79.8431]"
+    },
+    {
+        "stateID": "ND",
+        "state": "North Dakota",
+        "center": "[47.5362,-99.793]"
+    },
+    {
+        "stateID": "OH",
+        "state": "Ohio",
+        "center": "[40.3736,-82.7755]"
+    },
+    {
+        "stateID": "OK",
+        "state": "Oklahoma",
+        "center": "[35.5376,-96.9247]"
+    },
+    {
+        "stateID": "OR",
+        "state": "Oregon",
+        "center": "[44.5672,-122.1269]"
+    },
+    {
+        "stateID": "PA",
+        "state": "Pennsylvania",
+        "center": "[40.5773,-77.264]"
+    },
+    {
+        "stateID": "RI",
+        "state": "Rhode Island",
+        "center": "[41.6772,-71.5101]"
+    },
+    {
+        "stateID": "SC",
+        "state": "South Carolina",
+        "center": "[33.8191,-80.9066]", 
+        "zipCode" : "12345"
+    },
+    {
+        "stateID": "SD",
+        "state": "South Dakota",
+        "center": "[44.2853,-99.4632]"
+    },
+    {
+        "stateID": "TN",
+        "state": "Tennessee",
+        "center": "[35.7449,-86.7489]"
+    },
+    {
+        "stateID": "TX",
+        "state": "Texas",
+        "center": "[31.106,-97.6475]"
+    },
+    {
+        "stateID": "UT",
+        "state": "Utah",
+        "center": "[40.1135,-111.8535]"
+    },
+    {
+        "stateID": "VT",
+        "state": "Vermont",
+        "center": "[44.0407,-72.7093]"
+    },
+    {
+        "stateID": "VA",
+        "state": "Virginia",
+        "center": "[37.768,-78.2057]"
+    },
+    {
+        "stateID": "WA",
+        "state": "Washington",
+        "center": "[47.3917,-121.5708]"
+    },
+    {
+        "stateID": "WI",
+        "state": "Wisconsin",
+        "center": "[44.2563,-89.6385]"
+    },
+    {
+        "stateID": "WY",
+        "state": "Wyoming",
+        "center": "[42.7475,-107.2085]"
+    },
+    {
+        "stateID": "AS",
+        "state": "American Samoa",
+        "center": "[,]"
+    },
+    {
+        "stateID": "GU",
+        "state": "Guam",
+        "center": "[,]"
+    },
+    {
+        "stateID": "MP",
+        "state": "Commonwealth of the Northern Mariana Islands",
+        "center": "[,]"
+    },
+    {
+        "stateID": "PR",
+        "state": "Puerto Rico",
+        "center": "[,]"
+    },
+    {
+        "stateID": "VI",
+        "state": "United States Virgin Islands",
+        "center": "[,]"
+    }
+]
